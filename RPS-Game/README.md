@@ -17,6 +17,8 @@ A simple **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.
 - CSS  
 - JavaScript  
 
+## 🎮 Live Demo  
+👉 [Play Rock Paper Scissors here]([https://your-deployed-url.com](https://rps-game-neon.vercel.app/))  
+
 ## 📜 License  
 This project is open-source. Feel free to use and modify!  
-
